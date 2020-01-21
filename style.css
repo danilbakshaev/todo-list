@@ -3,3 +3,12 @@
 	font-style: italic;
 	color: gray;
 }
+
+.list-group-item label {
+	margin: 0;
+	margin-left: 10px;
+	margin-right: 30px;
+}
+#actionPanel2 {
+	display: none;
+}
